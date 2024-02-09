@@ -9,3 +9,5 @@
 ### Add your own openai API key here --> client = OpenAI(api_key='YOUR KEY')
 
 Run the program and ask GPT using Speech to Speech.
+
+If you want to end the program using voice command, say 'we are done' to the GPT.
