@@ -1,6 +1,6 @@
 import pyttsx3
 import speech_recognition as sr
-import config as config
+import config as config 
 import cv2
 import sys
 
